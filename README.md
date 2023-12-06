@@ -1,6 +1,4 @@
 # Project-Data-Mining
-Problem 1: Clustering, Problem 2: CART-RF-ANN
-
 
 ## Data Mining 
 
